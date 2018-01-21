@@ -1,8 +1,8 @@
 apply plugin: 'com.android.library'
 apply plugin: 'com.github.dcendents.android-maven'
 
-group = 'work.beltran'
-version = '1.0'
+group='com.github.miquelbeltran'
+version = '0.2'
 
 android {
     compileSdkVersion 26
