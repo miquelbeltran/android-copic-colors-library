@@ -2,8 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/AndroidCopicColors.iml" filepath="$PROJECT_DIR$/AndroidCopicColors.iml" />
-      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/copic-colors.iml" filepath="$PROJECT_DIR$/copic-colors.iml" />
       <module fileurl="file://$PROJECT_DIR$/copiccolors/copiccolors.iml" filepath="$PROJECT_DIR$/copiccolors/copiccolors.iml" />
     </modules>
   </component>

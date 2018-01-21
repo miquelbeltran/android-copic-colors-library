@@ -1,1 +1,3 @@
-include ':app', ':copiccolors'
+include ':copiccolors'
+rootProject.name = 'copic-colors'
+
