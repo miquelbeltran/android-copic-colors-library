@@ -1,0 +1,3296 @@
+[
+    {
+        "name": "Colorless Blender",
+        "code": "0",
+        "bg": "#ffffff",
+        "types": [
+            "sketch",
+            "classic",
+            "ciao",
+            "wide"
+        ]
+    },
+    {
+        "name": "Black",
+        "code": "100",
+        "bg": "#312b2b",
+        "types": [
+            "sketch",
+            "classic",
+            "ciao",
+            "wide"
+        ]
+    },
+    {
+        "name": "Special Black",
+        "code": "110",
+        "bg": "#030708",
+        "types": [
+            "sketch",
+            "classic",
+            "wide"
+        ]
+    },
+    {
+        "name": "Pale Celestine",
+        "code": "B0000",
+        "bg": "#f0f9fe",
+        "types": [
+            "sketch"
+        ]
+    },
+    {
+        "name": "Pale Porcelain Blue",
+        "code": "B000",
+        "bg": "#e6f4f5",
+        "types": [
+            "sketch",
+            "ciao"
+        ]
+    },
+    {
+        "name": "Frost Blue",
+        "code": "B00",
+        "bg": "#ddf0f4",
+        "types": [
+            "sketch",
+            "classic",
+            "ciao"
+        ]
+    },
+    {
+        "name": "Mint Blue",
+        "code": "B01",
+        "bg": "#d6eef2",
+        "types": [
+            "sketch",
+            "classic"
+        ]
+    },
+    {
+        "name": "Robin's Egg Blue",
+        "code": "B02",
+        "bg": "#b3e3f1",
+        "types": [
+            "sketch",
+            "classic",
+            "ciao"
+        ]
+    },
+    {
+        "name": "Tahitian Blue",
+        "code": "B04",
+        "bg": "#73cfe6",
+        "types": [
+            "sketch",
+            "classic"
+        ]
+    },
+    {
+        "name": "Process Blue",
+        "code": "B05",
+        "bg": "#40c5e6",
+        "types": [
+            "sketch",
+            "classic",
+            "ciao"
+        ]
+    },
+    {
+        "name": "Peacok Blue",
+        "code": "B06",
+        "bg": "#00b3e6",
+        "types": [
+            "sketch",
+            "classic"
+        ]
+    },
+    {
+        "name": "Ice Blue",
+        "code": "B12",
+        "bg": "#c8e6f0",
+        "types": [
+            "sketch",
+            "classic",
+            "ciao"
+        ]
+    },
+    {
+        "name": "Light Blue",
+        "code": "B14",
+        "bg": "#71cfeb",
+        "types": [
+            "sketch",
+            "classic"
+        ]
+    },
+    {
+        "name": "Cyanine Blue",
+        "code": "B16",
+        "bg": "#00bcea",
+        "types": [
+            "sketch",
+            "classic"
+        ]
+    },
+    {
+        "name": "Lapis Lazuli",
+        "code": "B18",
+        "bg": "#1d8acb",
+        "types": [
+            "sketch",
+            "classic",
+            "ciao"
+        ]
+    },
+    {
+        "name": "Baby Blue",
+        "code": "B21",
+        "bg": "#dbedf9",
+        "types": [
+            "sketch",
+            "classic"
+        ]
+    },
+    {
+        "name": "Phthalo Blue",
+        "code": "B23",
+        "bg": "#92c2e8",
+        "types": [
+            "sketch",
+            "classic",
+            "ciao"
+        ]
+    },
+    {
+        "name": "Sky",
+        "code": "B24",
+        "bg": "#8acef3",
+        "types": [
+            "sketch",
+            "classic",
+            "ciao",
+            "wide"
+        ]
+    },
+    {
+        "name": "Cobalt Blue",
+        "code": "B26",
+        "bg": "#65b3e3",
+        "types": [
+            "sketch",
+            "classic"
+        ]
+    },
+    {
+        "name": "Royal Blue",
+        "code": "B28",
+        "bg": "#196db6",
+        "types": [
+            "sketch",
+            "ciao"
+        ]
+    },
+    {
+        "name": "Ultramarine",
+        "code": "B29",
+        "bg": "#0177c1",
+        "types": [
+            "sketch",
+            "classic",
+            "ciao",
+            "wide"
+        ]
+    },
+    {
+        "name": "Pale Blue",
+        "code": "B32",
+        "bg": "#e2eff7",
+        "types": [
+            "sketch",
+            "classic",
+            "ciao",
+            "wide"
+        ]
+    },
+    {
+        "name": "Manganese Blue",
+        "code": "B34",
+        "bg": "#82c3ed",
+        "types": [
+            "sketch",
+            "classic",
+            "wide"
+        ]
+    },
+    {
+        "name": "Antwerp Blue",
+        "code": "B37",
+        "bg": "#156fa4",
+        "types": [
+            "sketch",
+            "classic"
+        ]
+    },
+    {
+        "name": "Prussian Blue",
+        "code": "B39",
+        "bg": "#2b64a9",
+        "types": [
+            "sketch",
+            "classic",
+            "ciao",
+            "wide"
+        ]
+    },
+    {
+        "name": "Powder Blue",
+        "code": "B41",
+        "bg": "#e2f0fb",
+        "types": [
+            "sketch",
+            "classic"
+        ]
+    },
+    {
+        "name": "Smoky Blue",
+        "code": "B45",
+        "bg": "#75c0ea",
+        "types": [
+            "sketch",
+            "classic",
+            "ciao"
+        ]
+    },
+    {
+        "name": "Soft Greenish Blue",
+        "code": "B52",
+        "bg": "#adcddc",
+        "types": [
+            "sketch"
+        ]
+    },
+    {
+        "name": "Pale Blue Gray",
+        "code": "B60",
+        "bg": "#dae1f3",
+        "types": [
+            "sketch",
+            "ciao"
+        ]
+    },
+    {
+        "name": "Light Hydrangea",
+        "code": "B63",
+        "bg": "#a7bbe0",
+        "types": [
+            "sketch",
+            "ciao"
+        ]
+    },
+    {
+        "name": "Clematis",
+        "code": "B66",
+        "bg": "#6888c5",
+        "types": [
+            "sketch"
+        ]
+    },
+    {
+        "name": "Stratospheric Blue",
+        "code": "B69",
+        "bg": "#2165ae",
+        "types": [
+            "sketch"
+        ]
+    },
+    {
+        "name": "Iris",
+        "code": "B79",
+        "bg": "#3b479d",
+        "types": [
+            "sketch"
+        ]
+    },
+    {
+        "name": "Pale Grayish Blue",
+        "code": "B91",
+        "bg": "#d5e2eb",
+        "types": [
+            "sketch"
+        ]
+    },
+    {
+        "name": "Light Crockery Blue",
+        "code": "B93",
+        "bg": "#95c1da",
+        "types": [
+            "sketch",
+            "ciao"
+        ]
+    },
+    {
+        "name": "Light Grayish Cobalt",
+        "code": "B95",
+        "bg": "#74a7c6",
+        "types": [
+            "sketch",
+            "ciao"
+        ]
+    },
+    {
+        "name": "Night Blue",
+        "code": "B97",
+        "bg": "#457a9a",
+        "types": [
+            "sketch",
+            "ciao"
+        ]
+    },
+    {
+        "name": "Agate",
+        "code": "B99",
+        "bg": "#0f547e",
+        "types": [
+            "sketch",
+            "ciao"
+        ]
+    },
+    {
+        "name": "Snow Green",
+        "code": "BG0000",
+        "bg": "#eff8f3",
+        "types": [
+            "sketch"
+        ]
+    },
+    {
+        "name": "Pale Aqua",
+        "code": "BG000",
+        "bg": "#e5f4ed",
+        "types": [
+            "sketch",
+            "ciao"
+        ]
+    },
+    {
+        "name": "Aqua Blue",
+        "code": "BG01",
+        "bg": "#c7e6fa",
+        "types": [
+            "sketch",
+            "ciao"
+        ]
+    },
+    {
+        "name": "New Blue",
+        "code": "BG02",
+        "bg": "#c6e8ea",
+        "types": [
+            "sketch",
+            "classic"
+        ]
+    },
+    {
+        "name": "Holiday Blue",
+        "code": "BG05",
+        "bg": "#83d2e1",
+        "types": [
+            "sketch",
+            "classic",
+            "ciao"
+        ]
+    },
+    {
+        "name": "Petroleum Blue",
+        "code": "BG07",
+        "bg": "#1db8ce",
+        "types": [
+            "sketch"
+        ]
+    },
+    {
+        "name": "Blue Green",
+        "code": "BG09",
+        "bg": "#01b1c9",
+        "types": [
+            "sketch",
+            "classic",
+            "ciao"
+        ]
+    },
+    {
+        "name": "Cool Shadow",
+        "code": "BG10",
+        "bg": "#dcf0ef",
+        "types": [
+            "sketch",
+            "classic",
+            "ciao",
+            "wide"
+        ]
+    },
+    {
+        "name": "Moon White",
+        "code": "BG11",
+        "bg": "#ceebf1",
+        "types": [
+            "sketch",
+            "classic"
+        ]
+    },
+    {
+        "name": "Mint Green",
+        "code": "BG13",
+        "bg": "#c4e7e9",
+        "types": [
+            "sketch",
+            "classic",
+            "ciao"
+        ]
+    },
+    {
+        "name": "Aqua",
+        "code": "BG15",
+        "bg": "#a0d9d2",
+        "types": [
+            "sketch",
+            "classic",
+            "ciao"
+        ]
+    },
+    {
+        "name": "Teal Blue",
+        "code": "BG18",
+        "bg": "#37c0b0",
+        "types": [
+            "sketch",
+            "classic"
+        ]
+    },
+    {
+        "name": "Coral Sea",
+        "code": "BG23",
+        "bg": "#bde5dd",
+        "types": [
+            "sketch",
+            "ciao"
+        ]
+    },
+    {
+        "name": "Aqua Mint",
+        "code": "BG32",
+        "bg": "#bce2d7",
+        "types": [
+            "sketch",
+            "classic"
+        ]
+    },
+    {
+        "name": "Horizon Green",
+        "code": "BG34",
+        "bg": "#a3dad7",
+        "types": [
+            "sketch",
+            "classic",
+            "ciao"
+        ]
+    },
+    {
+        "name": "Nile Blue",
+        "code": "BG45",
+        "bg": "#afdfdf",
+        "types": [
+            "sketch",
+            "classic"
+        ]
+    },
+    {
+        "name": "Duck Blue",
+        "code": "BG49",
+        "bg": "#00b6b9",
+        "types": [
+            "sketch",
+            "classic",
+            "ciao"
+        ]
+    },
+    {
+        "name": "Ice Mint",
+        "code": "BG53",
+        "bg": "#accfd1",
+        "types": [
+            "sketch"
+        ]
+    },
+    {
+        "name": "Sketch Jasper",
+        "code": "BG57",
+        "bg": "#64bebe",
+        "types": [
+            "sketch"
+        ]
+    },
+    {
+        "name": "Ocean Mist",
+        "code": "BG70",
+        "bg": "#daecee",
+        "types": [
+            "sketch"
+        ]
+    },
+    {
+        "name": "Ice Ocean",
+        "code": "BG72",
+        "bg": "#74b8bb",
+        "types": [
+            "sketch",
+            "ciao"
+        ]
+    },
+    {
+        "name": "Abyss Green",
+        "code": "BG75",
+        "bg": "#59918e",
+        "types": [
+            "sketch"
+        ]
+    },
+    {
+        "name": "Bronze",
+        "code": "BG78",
+        "bg": "#49706b",
+        "types": [
+            "sketch"
+        ]
+    },
+    {
+        "name": "Sketch Gray Sky",
+        "code": "BG90",
+        "bg": "#e8ede7",
+        "types": [
+            "sketch"
+        ]
+    },
+    {
+        "name": "Green Gray",
+        "code": "BG93",
+        "bg": "#bac1b9",
+        "types": [
+            "sketch",
+            "ciao"
+        ]
+    },
+    {
+        "name": "Bush",
+        "code": "BG96",
+        "bg": "#81a291",
+        "types": [
+            "sketch",
+            "ciao"
+        ]
+    },
+    {
+        "name": "Flagstone Blue",
+        "code": "BG99",
+        "bg": "#6e9b87",
+        "types": [
+            "sketch",
+            "classic"
+        ]
+    },
+    {
+        "name": "Sketch Pale Thistle",
+        "code": "BV0000",
+        "bg": "#eae7f2",
+        "types": [
+            "sketch"
+        ]
+    },
+    {
+        "name": "Iridescent Mauve",
+        "code": "BV000",
+        "bg": "#eae7f2",
+        "types": [
+            "sketch",
+            "ciao"
+        ]
+    },
+    {
+        "name": "Mauve Shadow",
+        "code": "BV00",
+        "bg": "#e0dced",
+        "types": [
+            "sketch",
+            "classic",
+            "ciao"
+        ]
+    },
+    {
+        "name": "Viola",
+        "code": "BV01",
+        "bg": "#c4c9e6",
+        "types": [
+            "sketch"
+        ]
+    },
+    {
+        "name": "Prune",
+        "code": "BV02",
+        "bg": "#aab8db",
+        "types": [
+            "sketch",
+            "ciao"
+        ]
+    },
+    {
+        "name": "Blue Berry",
+        "code": "BV04",
+        "bg": "#7c97ce",
+        "types": [
+            "sketch",
+            "classic",
+            "ciao"
+        ]
+    },
+    {
+        "name": "Blue Violet",
+        "code": "BV08",
+        "bg": "#9d7eb9",
+        "types": [
+            "sketch",
+            "classic",
+            "ciao"
+        ]
+    },
+    {
+        "name": "Soft Violet",
+        "code": "BV11",
+        "bg": "#d4d2e8",
+        "types": [
+            "sketch"
+        ]
+    },
+    {
+        "name": "Hydrangea Blue",
+        "code": "BV13",
+        "bg": "#8491c8",
+        "types": [
+            "sketch",
+            "ciao"
+        ]
+    },
+    {
+        "name": "Deep Reddish Blue",
+        "code": "BV17",
+        "bg": "#6e84bd",
+        "types": [
+            "sketch",
+            "ciao"
+        ]
+    },
+    {
+        "name": "Dull Lavender",
+        "code": "BV20",
+        "bg": "#cfdbf1",
+        "types": [
+            "sketch"
+        ]
+    },
+    {
+        "name": "Grayish Lavender",
+        "code": "BV23",
+        "bg": "#b1c0dd",
+        "types": [
+            "sketch",
+            "classic",
+            "ciao"
+        ]
+    },
+    {
+        "name": "Grayish Violet",
+        "code": "BV25",
+        "bg": "#8184a7",
+        "types": [
+            "sketch",
+            "ciao"
+        ]
+    },
+    {
+        "name": "Slate",
+        "code": "BV29",
+        "bg": "#384558",
+        "types": [
+            "sketch",
+            "ciao"
+        ]
+    },
+    {
+        "name": "Pale Lavender",
+        "code": "BV31",
+        "bg": "#eae7f2",
+        "types": [
+            "sketch",
+            "classic",
+            "ciao"
+        ]
+    },
+    {
+        "name": "Sketch Bluebell",
+        "code": "BV34",
+        "bg": "#9fa7bc",
+        "types": [
+            "sketch"
+        ]
+    },
+    {
+        "name": "Cool Gray",
+        "code": "C00",
+        "bg": "#e8f0f3",
+        "types": [
+            "sketch"
+        ]
+    },
+    {
+        "name": "Cool Gray",
+        "code": "C0",
+        "bg": "#e0e7ed",
+        "types": [
+            "sketch",
+            "classic",
+            "ciao"
+        ]
+    },
+    {
+        "name": "Cool Gray",
+        "code": "C10",
+        "bg": "#202b31",
+        "types": [
+            "sketch",
+            "classic"
+        ]
+    },
+    {
+        "name": "Cool Gray No. 1",
+        "code": "C1",
+        "bg": "#dae3e8",
+        "types": [
+            "sketch",
+            "classic",
+            "ciao",
+            "wide"
+        ]
+    },
+    {
+        "name": "Cool Gray",
+        "code": "C2",
+        "bg": "#ccd7dd",
+        "types": [
+            "sketch",
+            "classic",
+            "ciao"
+        ]
+    },
+    {
+        "name": "Cool Gray No. 3",
+        "code": "C3",
+        "bg": "#c1ccd2",
+        "types": [
+            "sketch",
+            "classic",
+            "ciao",
+            "wide"
+        ]
+    },
+    {
+        "name": "Cool Gray",
+        "code": "C4",
+        "bg": "#a6b4bd",
+        "types": [
+            "sketch",
+            "classic"
+        ]
+    },
+    {
+        "name": "Cool Gray No. 5",
+        "code": "C5",
+        "bg": "#92a0ab",
+        "types": [
+            "sketch",
+            "classic",
+            "ciao",
+            "wide"
+        ]
+    },
+    {
+        "name": "Cool Gray",
+        "code": "C6",
+        "bg": "#7b8c96",
+        "types": [
+            "sketch",
+            "classic"
+        ]
+    },
+    {
+        "name": "Cool Gray No. 7",
+        "code": "C7",
+        "bg": "#637079",
+        "types": [
+            "sketch",
+            "classic",
+            "ciao",
+            "wide"
+        ]
+    },
+    {
+        "name": "Cool Gray",
+        "code": "C8",
+        "bg": "#535d66",
+        "types": [
+            "sketch",
+            "classic"
+        ]
+    },
+    {
+        "name": "Cool Gray",
+        "code": "C9",
+        "bg": "#3c474d",
+        "types": [
+            "sketch",
+            "classic",
+            "wide"
+        ]
+    },
+    {
+        "name": "Floral White",
+        "code": "E0000",
+        "bg": "#fffaf4",
+        "types": [
+            "sketch"
+        ]
+    },
+    {
+        "name": "Pale Fruit Pink",
+        "code": "E000",
+        "bg": "#fef5ee",
+        "types": [
+            "sketch",
+            "ciao"
+        ]
+    },
+    {
+        "name": "Skin White",
+        "code": "E00",
+        "bg": "#fdf3ea",
+        "types": [
+            "sketch",
+            "classic",
+            "ciao"
+        ]
+    },
+    {
+        "name": "Pink Flamingo",
+        "code": "E01",
+        "bg": "#ffeee4",
+        "types": [
+            "sketch"
+        ]
+    },
+    {
+        "name": "Fruit Pink",
+        "code": "E02",
+        "bg": "#feece0",
+        "types": [
+            "sketch",
+            "classic",
+            "ciao"
+        ]
+    },
+    {
+        "name": "Lipstick Natural",
+        "code": "E04",
+        "bg": "#e4bcc4",
+        "types": [
+            "sketch",
+            "classic",
+            "ciao",
+            "wide"
+        ]
+    },
+    {
+        "name": "Light Mahogany",
+        "code": "E07",
+        "bg": "#cc816a",
+        "types": [
+            "sketch",
+            "classic"
+        ]
+    },
+    {
+        "name": "Brown",
+        "code": "E08",
+        "bg": "#ca6553",
+        "types": [
+            "sketch",
+            "ciao"
+        ]
+    },
+    {
+        "name": "Burnt Sienna",
+        "code": "E09",
+        "bg": "#d96a4f",
+        "types": [
+            "sketch",
+            "classic"
+        ]
+    },
+    {
+        "name": "Barley Beige",
+        "code": "E11",
+        "bg": "#fee9d6",
+        "types": [
+            "sketch",
+            "classic",
+            "ciao"
+        ]
+    },
+    {
+        "name": "Light Suntan",
+        "code": "E13",
+        "bg": "#e9c5af",
+        "types": [
+            "sketch",
+            "classic"
+        ]
+    },
+    {
+        "name": "Dark Suntan",
+        "code": "E15",
+        "bg": "#fbbb8d",
+        "types": [
+            "sketch",
+            "classic",
+            "ciao"
+        ]
+    },
+    {
+        "name": "Reddish Brass",
+        "code": "E17",
+        "bg": "#b85f57",
+        "types": [
+            "sketch"
+        ]
+    },
+    {
+        "name": "Copper",
+        "code": "E18",
+        "bg": "#88534d",
+        "types": [
+            "sketch",
+            "ciao"
+        ]
+    },
+    {
+        "name": "Redwood",
+        "code": "E19",
+        "bg": "#c45238",
+        "types": [
+            "sketch",
+            "classic"
+        ]
+    },
+    {
+        "name": "Baby Skin Pink",
+        "code": "E21",
+        "bg": "#fde2c7",
+        "types": [
+            "sketch",
+            "classic",
+            "ciao"
+        ]
+    },
+    {
+        "name": "Hazelnut",
+        "code": "E23",
+        "bg": "#eccab1",
+        "types": [
+            "sketch"
+        ]
+    },
+    {
+        "name": "Caribe Cocoa",
+        "code": "E25",
+        "bg": "#d2a482",
+        "types": [
+            "sketch",
+            "classic",
+            "ciao"
+        ]
+    },
+    {
+        "name": "Africano",
+        "code": "E27",
+        "bg": "#997663",
+        "types": [
+            "sketch",
+            "classic"
+        ]
+    },
+    {
+        "name": "Burnt Umber",
+        "code": "E29",
+        "bg": "#884636",
+        "types": [
+            "sketch",
+            "classic",
+            "ciao",
+            "wide"
+        ]
+    },
+    {
+        "name": "Bisque",
+        "code": "E30",
+        "bg": "#f7f0d6",
+        "types": [
+            "sketch"
+        ]
+    },
+    {
+        "name": "Brick Beige",
+        "code": "E31",
+        "bg": "#f2e6ce",
+        "types": [
+            "sketch",
+            "classic",
+            "ciao",
+            "wide"
+        ]
+    },
+    {
+        "name": "Sand",
+        "code": "E33",
+        "bg": "#f3d2b1",
+        "types": [
+            "sketch",
+            "classic",
+            "ciao",
+            "wide"
+        ]
+    },
+    {
+        "name": "Orientale",
+        "code": "E34",
+        "bg": "#f0caa6",
+        "types": [
+            "sketch",
+            "classic"
+        ]
+    },
+    {
+        "name": "Chamois",
+        "code": "E35",
+        "bg": "#e6c3a3",
+        "types": [
+            "sketch",
+            "classic",
+            "ciao"
+        ]
+    },
+    {
+        "name": "Sepia",
+        "code": "E37",
+        "bg": "#cc9159",
+        "types": [
+            "sketch",
+            "classic",
+            "ciao"
+        ]
+    },
+    {
+        "name": "Leather",
+        "code": "E39",
+        "bg": "#c5743f",
+        "types": [
+            "sketch",
+            "classic"
+        ]
+    },
+    {
+        "name": "Brick White",
+        "code": "E40",
+        "bg": "#f2e8dc",
+        "types": [
+            "sketch",
+            "classic",
+            "ciao"
+        ]
+    },
+    {
+        "name": "Pearl White",
+        "code": "E41",
+        "bg": "#fef1e1",
+        "types": [
+            "sketch",
+            "classic",
+            "ciao"
+        ]
+    },
+    {
+        "name": "Sand White",
+        "code": "E42",
+        "bg": "#f3ead9",
+        "types": [
+            "sketch"
+        ]
+    },
+    {
+        "name": "Dull Ivory",
+        "code": "E43",
+        "bg": "#e8dabd",
+        "types": [
+            "sketch",
+            "classic",
+            "ciao"
+        ]
+    },
+    {
+        "name": "Clay",
+        "code": "E44",
+        "bg": "#c5b9a9",
+        "types": [
+            "sketch",
+            "classic"
+        ]
+    },
+    {
+        "name": "Dark Brown",
+        "code": "E47",
+        "bg": "#8a6e59",
+        "types": [
+            "sketch",
+            "ciao"
+        ]
+    },
+    {
+        "name": "Dark Bark",
+        "code": "E49",
+        "bg": "#634c3c",
+        "types": [
+            "sketch",
+            "classic",
+            "ciao",
+            "wide"
+        ]
+    },
+    {
+        "name": "Egg Shell",
+        "code": "E50",
+        "bg": "#f4ebf0",
+        "types": [
+            "sketch",
+            "ciao"
+        ]
+    },
+    {
+        "name": "Milky White",
+        "code": "E51",
+        "bg": "#feecd6",
+        "types": [
+            "sketch",
+            "classic",
+            "ciao"
+        ]
+    },
+    {
+        "name": "Raw Silk",
+        "code": "E53",
+        "bg": "#f3e6c3",
+        "types": [
+            "sketch",
+            "classic",
+            "ciao"
+        ]
+    },
+    {
+        "name": "Light Camel",
+        "code": "E55",
+        "bg": "#f1dfb9",
+        "types": [
+            "sketch",
+            "classic"
+        ]
+    },
+    {
+        "name": "Light Walnut",
+        "code": "E57",
+        "bg": "#b18558",
+        "types": [
+            "sketch",
+            "classic",
+            "ciao"
+        ]
+    },
+    {
+        "name": "Walnut",
+        "code": "E59",
+        "bg": "#9a7f6c",
+        "types": [
+            "sketch",
+            "classic",
+            "ciao"
+        ]
+    },
+    {
+        "name": "Ash Rose",
+        "code": "E70",
+        "bg": "#efeae6",
+        "types": [
+            "sketch"
+        ]
+    },
+    {
+        "name": "Champagne",
+        "code": "E71",
+        "bg": "#e2d7d3",
+        "types": [
+            "sketch",
+            "ciao"
+        ]
+    },
+    {
+        "name": "Cocoa Brown",
+        "code": "E74",
+        "bg": "#a1847c",
+        "types": [
+            "sketch"
+        ]
+    },
+    {
+        "name": "Maroon",
+        "code": "E77",
+        "bg": "#7f604e",
+        "types": [
+            "sketch",
+            "classic",
+            "ciao"
+        ]
+    },
+    {
+        "name": "Cashew",
+        "code": "E79",
+        "bg": "#4a2c22",
+        "types": [
+            "sketch",
+            "ciao"
+        ]
+    },
+    {
+        "name": "Ivory",
+        "code": "E81",
+        "bg": "#f0e6c2",
+        "types": [
+            "sketch"
+        ]
+    },
+    {
+        "name": "- Sketch Khaki",
+        "code": "E84",
+        "bg": "#ae9f80",
+        "types": [
+            "sketch"
+        ]
+    },
+    {
+        "name": "Fig",
+        "code": "E87",
+        "bg": "#6f604d",
+        "types": [
+            "sketch"
+        ]
+    },
+    {
+        "name": "- Sketch Pecan",
+        "code": "E89",
+        "bg": "#5a4939",
+        "types": [
+            "sketch"
+        ]
+    },
+    {
+        "name": "Tea Rose",
+        "code": "E93",
+        "bg": "#fed2b9",
+        "types": [
+            "sketch",
+            "ciao"
+        ]
+    },
+    {
+        "name": "Flesh Pink",
+        "code": "E95",
+        "bg": "#fcbc7e",
+        "types": [
+            "sketch",
+            "ciao"
+        ]
+    },
+    {
+        "name": "Deep Orange",
+        "code": "E97",
+        "bg": "#ed9c5d",
+        "types": [
+            "sketch"
+        ]
+    },
+    {
+        "name": "Baked Clay",
+        "code": "E99",
+        "bg": "#b46034",
+        "types": [
+            "sketch"
+        ]
+    },
+    {
+        "name": "Fluorescent Dull Blue",
+        "code": "FB2",
+        "bg": "#058fd0",
+        "types": [
+            "sketch"
+        ]
+    },
+    {
+        "name": "Fluorescent Dull Blue Green",
+        "code": "FBG2",
+        "bg": "#62cbe8",
+        "types": [
+            "sketch"
+        ]
+    },
+    {
+        "name": "Fluorescent Pink",
+        "code": "FRV1",
+        "bg": "#f5a3c7",
+        "types": [
+            "sketch"
+        ]
+    },
+    {
+        "name": "Fluorescent Dull Violet",
+        "code": "FV2",
+        "bg": "#7f74b6",
+        "types": [
+            "sketch"
+        ]
+    },
+    {
+        "name": "Fluorescent Yellow Orange",
+        "code": "FY1",
+        "bg": "#fff697",
+        "types": [
+            "sketch"
+        ]
+    },
+    {
+        "name": "Fluorescent Yellow",
+        "code": "FYG1",
+        "bg": "#9ecd43",
+        "types": [
+            "sketch"
+        ]
+    },
+    {
+        "name": "Fluor Dull Yellow Green",
+        "code": "FYG2",
+        "bg": "#9ecd43",
+        "types": [
+            "sketch"
+        ]
+    },
+    {
+        "name": "Fluorescent Orange",
+        "code": "FYR1",
+        "bg": "#fecc99",
+        "types": [
+            "sketch"
+        ]
+    },
+    {
+        "name": "Crystal Opal",
+        "code": "G0000",
+        "bg": "#f1f7f3",
+        "types": [
+            "sketch"
+        ]
+    },
+    {
+        "name": "Pale Green",
+        "code": "G000",
+        "bg": "#eaf5ed",
+        "types": [
+            "sketch",
+            "ciao"
+        ]
+    },
+    {
+        "name": "Jade Green",
+        "code": "G00",
+        "bg": "#e3f2ed",
+        "types": [
+            "sketch",
+            "classic",
+            "ciao"
+        ]
+    },
+    {
+        "name": "Spectrum Green",
+        "code": "G02",
+        "bg": "#cfe8d3",
+        "types": [
+            "sketch",
+            "classic",
+            "ciao"
+        ]
+    },
+    {
+        "name": "Meadow Green",
+        "code": "G03",
+        "bg": "#b6da9c",
+        "types": [
+            "sketch"
+        ]
+    },
+    {
+        "name": "Emerald Green",
+        "code": "G05",
+        "bg": "#69c07b",
+        "types": [
+            "sketch",
+            "classic",
+            "ciao"
+        ]
+    },
+    {
+        "name": "Nile Green",
+        "code": "G07",
+        "bg": "#7bc576",
+        "types": [
+            "sketch",
+            "classic",
+            "ciao",
+            "wide"
+        ]
+    },
+    {
+        "name": "Veronese Green",
+        "code": "G09",
+        "bg": "#7ac465",
+        "types": [
+            "sketch",
+            "classic"
+        ]
+    },
+    {
+        "name": "Sea Green",
+        "code": "G12",
+        "bg": "#d2e8c4",
+        "types": [
+            "sketch",
+            "classic"
+        ]
+    },
+    {
+        "name": "Apple Green",
+        "code": "G14",
+        "bg": "#97cf90",
+        "types": [
+            "sketch",
+            "classic",
+            "ciao"
+        ]
+    },
+    {
+        "name": "Malachite",
+        "code": "G16",
+        "bg": "#60c198",
+        "types": [
+            "sketch",
+            "classic"
+        ]
+    },
+    {
+        "name": "Forest Green",
+        "code": "G17",
+        "bg": "#14b37d",
+        "types": [
+            "sketch",
+            "classic",
+            "ciao"
+        ]
+    },
+    {
+        "name": "Bright Parrot Green",
+        "code": "G19",
+        "bg": "#2db98a",
+        "types": [
+            "sketch",
+            "classic"
+        ]
+    },
+    {
+        "name": "Wax White",
+        "code": "G20",
+        "bg": "#edf6db",
+        "types": [
+            "sketch",
+            "classic"
+        ]
+    },
+    {
+        "name": "Lime Green",
+        "code": "G21",
+        "bg": "#c4e4cd",
+        "types": [
+            "sketch",
+            "classic",
+            "ciao",
+            "wide"
+        ]
+    },
+    {
+        "name": "Willow",
+        "code": "G24",
+        "bg": "#c3e0b4",
+        "types": [
+            "sketch",
+            "classic"
+        ]
+    },
+    {
+        "name": "Ocean Green",
+        "code": "G28",
+        "bg": "#119462",
+        "types": [
+            "sketch",
+            "classic",
+            "ciao"
+        ]
+    },
+    {
+        "name": "Pine Tree Green",
+        "code": "G29",
+        "bg": "#197c5d",
+        "types": [
+            "sketch",
+            "classic",
+            "ciao"
+        ]
+    },
+    {
+        "name": "Dim Green",
+        "code": "G40",
+        "bg": "#e4f1df",
+        "types": [
+            "sketch",
+            "classic"
+        ]
+    },
+    {
+        "name": "Various Pistachio",
+        "code": "G43",
+        "bg": "#d7e7a8",
+        "types": [
+            "sketch"
+        ]
+    },
+    {
+        "name": "Sketch Mistletoe",
+        "code": "G46",
+        "bg": "#579e74",
+        "types": [
+            "sketch"
+        ]
+    },
+    {
+        "name": "Spring Dim Green",
+        "code": "G82",
+        "bg": "#ccdab9",
+        "types": [
+            "sketch",
+            "classic",
+            "ciao"
+        ]
+    },
+    {
+        "name": "Verdigris",
+        "code": "G85",
+        "bg": "#9dc3aa",
+        "types": [
+            "sketch",
+            "classic",
+            "ciao"
+        ]
+    },
+    {
+        "name": "Grayish Olive",
+        "code": "G94",
+        "bg": "#98a786",
+        "types": [
+            "sketch",
+            "ciao"
+        ]
+    },
+    {
+        "name": "Olive",
+        "code": "G99",
+        "bg": "#5f7e3a",
+        "types": [
+            "sketch",
+            "classic",
+            "ciao"
+        ]
+    },
+    {
+        "name": "Neutral Gray",
+        "code": "N0",
+        "bg": "#eceeed",
+        "types": [
+            "sketch",
+            "classic"
+        ]
+    },
+    {
+        "name": "Neutral Gray",
+        "code": "N10",
+        "bg": "#312f30",
+        "types": [
+            "sketch",
+            "classic"
+        ]
+    },
+    {
+        "name": "Neutral Gray",
+        "code": "N1",
+        "bg": "#e2e3e5",
+        "types": [
+            "sketch",
+            "classic"
+        ]
+    },
+    {
+        "name": "Neutral Gray",
+        "code": "N2",
+        "bg": "#dadbdd",
+        "types": [
+            "sketch",
+            "classic"
+        ]
+    },
+    {
+        "name": "Neutral Gray",
+        "code": "N3",
+        "bg": "#d1d2d4",
+        "types": [
+            "sketch",
+            "classic"
+        ]
+    },
+    {
+        "name": "Neutral Gray",
+        "code": "N4",
+        "bg": "#bcbdc1",
+        "types": [
+            "sketch",
+            "classic"
+        ]
+    },
+    {
+        "name": "Neutral Gray",
+        "code": "N5",
+        "bg": "#a8a9ad",
+        "types": [
+            "sketch",
+            "classic"
+        ]
+    },
+    {
+        "name": "Neutral Gray",
+        "code": "N6",
+        "bg": "#949599",
+        "types": [
+            "sketch",
+            "classic"
+        ]
+    },
+    {
+        "name": "Neutral Gray",
+        "code": "N7",
+        "bg": "#77787c",
+        "types": [
+            "sketch",
+            "classic"
+        ]
+    },
+    {
+        "name": "Neutral Gray",
+        "code": "N8",
+        "bg": "#636466",
+        "types": [
+            "sketch",
+            "classic"
+        ]
+    },
+    {
+        "name": "Neutral Gray",
+        "code": "N9",
+        "bg": "#4c4d4f",
+        "types": [
+            "sketch",
+            "classic"
+        ]
+    },
+    {
+        "name": "Pink Beryl",
+        "code": "R0000",
+        "bg": "#fef3ef",
+        "types": [
+            "sketch"
+        ]
+    },
+    {
+        "name": "Cherry White",
+        "code": "R000",
+        "bg": "#fef0e7",
+        "types": [
+            "sketch",
+            "ciao"
+        ]
+    },
+    {
+        "name": "Pinkish White",
+        "code": "R00",
+        "bg": "#feeae1",
+        "types": [
+            "sketch",
+            "classic",
+            "ciao"
+        ]
+    },
+    {
+        "name": "Pinkish Vanilla",
+        "code": "R01",
+        "bg": "#fde0d8",
+        "types": [
+            "sketch"
+        ]
+    },
+    {
+        "name": "Flesh",
+        "code": "R02",
+        "bg": "#fdd3c7",
+        "types": [
+            "sketch",
+            "classic",
+            "ciao",
+            "wide"
+        ]
+    },
+    {
+        "name": "Salmon Red",
+        "code": "R05",
+        "bg": "#f6927b",
+        "types": [
+            "sketch",
+            "classic",
+            "ciao"
+        ]
+    },
+    {
+        "name": "Vermilion",
+        "code": "R08",
+        "bg": "#f26754",
+        "types": [
+            "sketch",
+            "classic"
+        ]
+    },
+    {
+        "name": "Pale Cherry Pink",
+        "code": "R11",
+        "bg": "#fde1d5",
+        "types": [
+            "sketch",
+            "classic",
+            "ciao"
+        ]
+    },
+    {
+        "name": "Light Tea Rose",
+        "code": "R12",
+        "bg": "#fcd3c1",
+        "types": [
+            "sketch"
+        ]
+    },
+    {
+        "name": "Light Rouge",
+        "code": "R14",
+        "bg": "#f59b92",
+        "types": [
+            "sketch",
+            "ciao"
+        ]
+    },
+    {
+        "name": "Lipstick Orange",
+        "code": "R17",
+        "bg": "#f4846c",
+        "types": [
+            "sketch",
+            "classic",
+            "ciao"
+        ]
+    },
+    {
+        "name": "Blush",
+        "code": "R20",
+        "bg": "#fcd7cf",
+        "types": [
+            "sketch",
+            "classic",
+            "ciao"
+        ]
+    },
+    {
+        "name": "Sardonyx",
+        "code": "R21",
+        "bg": "#fac1b6",
+        "types": [
+            "sketch"
+        ]
+    },
+    {
+        "name": "Light Prawn",
+        "code": "R22",
+        "bg": "#f8b7b1",
+        "types": [
+            "sketch",
+            "ciao"
+        ]
+    },
+    {
+        "name": "Prawn",
+        "code": "R24",
+        "bg": "#f27579",
+        "types": [
+            "sketch",
+            "classic"
+        ]
+    },
+    {
+        "name": "Cadmium Red",
+        "code": "R27",
+        "bg": "#f15062",
+        "types": [
+            "sketch",
+            "classic",
+            "ciao",
+            "wide"
+        ]
+    },
+    {
+        "name": "Lipstick Red",
+        "code": "R29",
+        "bg": "#ed174b",
+        "types": [
+            "sketch",
+            "classic",
+            "ciao",
+            "wide"
+        ]
+    },
+    {
+        "name": "Pale Yellowish Pink",
+        "code": "R30",
+        "bg": "#fce3df",
+        "types": [
+            "sketch"
+        ]
+    },
+    {
+        "name": "Peach",
+        "code": "R32",
+        "bg": "#fac1ba",
+        "types": [
+            "sketch",
+            "classic",
+            "ciao"
+        ]
+    },
+    {
+        "name": "Coral",
+        "code": "R35",
+        "bg": "#f27185",
+        "types": [
+            "sketch",
+            "classic",
+            "ciao"
+        ]
+    },
+    {
+        "name": "Carmine",
+        "code": "R37",
+        "bg": "#e86c74",
+        "types": [
+            "sketch",
+            "classic",
+            "ciao"
+        ]
+    },
+    {
+        "name": "Garnet",
+        "code": "R39",
+        "bg": "#cb487a",
+        "types": [
+            "sketch",
+            "classic"
+        ]
+    },
+    {
+        "name": "Bougainvillaea",
+        "code": "R43",
+        "bg": "#ee848e",
+        "types": [
+            "sketch"
+        ]
+    },
+    {
+        "name": "Strong Red",
+        "code": "R46",
+        "bg": "#e04d69",
+        "types": [
+            "sketch",
+            "ciao"
+        ]
+    },
+    {
+        "name": "Currant",
+        "code": "R56",
+        "bg": "#d27c95",
+        "types": [
+            "sketch"
+        ]
+    },
+    {
+        "name": "Cardinal",
+        "code": "R59",
+        "bg": "#b74f70",
+        "types": [
+            "sketch",
+            "classic",
+            "ciao"
+        ]
+    },
+    {
+        "name": "Rose Pink",
+        "code": "R81",
+        "bg": "#f1c8d6",
+        "types": [
+            "sketch",
+            "ciao"
+        ]
+    },
+    {
+        "name": "Rose Mist",
+        "code": "R83",
+        "bg": "#f19cb9",
+        "types": [
+            "sketch"
+        ]
+    },
+    {
+        "name": "Rose Red",
+        "code": "R85",
+        "bg": "#d36a93",
+        "types": [
+            "sketch",
+            "ciao"
+        ]
+    },
+    {
+        "name": "Dark Red",
+        "code": "R89",
+        "bg": "#7d2b42",
+        "types": [
+            "sketch"
+        ]
+    },
+    {
+        "name": "Evening Primrose",
+        "code": "RV0000",
+        "bg": "#f2eaf5",
+        "types": [
+            "sketch"
+        ]
+    },
+    {
+        "name": "Pale Purple",
+        "code": "RV000",
+        "bg": "#f4e2ee",
+        "types": [
+            "sketch",
+            "ciao"
+        ]
+    },
+    {
+        "name": "Water Lily",
+        "code": "RV00",
+        "bg": "#f1daea",
+        "types": [
+            "sketch"
+        ]
+    },
+    {
+        "name": "Sugared Almond Pink",
+        "code": "RV02",
+        "bg": "#fad5e6",
+        "types": [
+            "sketch",
+            "classic",
+            "ciao"
+        ]
+    },
+    {
+        "name": "Shock  Pink",
+        "code": "RV04",
+        "bg": "#f6a3bf",
+        "types": [
+            "sketch",
+            "classic",
+            "ciao"
+        ]
+    },
+    {
+        "name": "Cerise",
+        "code": "RV06",
+        "bg": "#f386af",
+        "types": [
+            "sketch",
+            "classic",
+            "ciao"
+        ]
+    },
+    {
+        "name": "Fuchsia",
+        "code": "RV09",
+        "bg": "#e171ac",
+        "types": [
+            "sketch",
+            "classic"
+        ]
+    },
+    {
+        "name": "Pale Pink",
+        "code": "RV10",
+        "bg": "#fdecf4",
+        "types": [
+            "sketch",
+            "classic",
+            "ciao"
+        ]
+    },
+    {
+        "name": "Pink",
+        "code": "RV11",
+        "bg": "#fbd6dd",
+        "types": [
+            "sketch",
+            "classic"
+        ]
+    },
+    {
+        "name": "Tender Pink",
+        "code": "RV13",
+        "bg": "#f9c9d7",
+        "types": [
+            "sketch",
+            "classic",
+            "ciao"
+        ]
+    },
+    {
+        "name": "Begonia Pink",
+        "code": "RV14",
+        "bg": "#f495b7",
+        "types": [
+            "sketch",
+            "classic",
+            "ciao"
+        ]
+    },
+    {
+        "name": "Deep Magenta",
+        "code": "RV17",
+        "bg": "#db7eb3",
+        "types": [
+            "sketch",
+            "classic"
+        ]
+    },
+    {
+        "name": "Red Violet",
+        "code": "RV19",
+        "bg": "#d268aa",
+        "types": [
+            "sketch",
+            "classic"
+        ]
+    },
+    {
+        "name": "Light Pink",
+        "code": "RV21",
+        "bg": "#fde8e7",
+        "types": [
+            "sketch",
+            "classic",
+            "ciao"
+        ]
+    },
+    {
+        "name": "Pure Pink",
+        "code": "RV23",
+        "bg": "#f8bac9",
+        "types": [
+            "sketch",
+            "ciao"
+        ]
+    },
+    {
+        "name": "Dog Rose Flower",
+        "code": "RV25",
+        "bg": "#f493be",
+        "types": [
+            "sketch",
+            "classic"
+        ]
+    },
+    {
+        "name": "Crimson",
+        "code": "RV29",
+        "bg": "#ef4880",
+        "types": [
+            "sketch",
+            "classic",
+            "ciao"
+        ]
+    },
+    {
+        "name": "Shadow Pink",
+        "code": "RV32",
+        "bg": "#fad3ce",
+        "types": [
+            "sketch",
+            "classic"
+        ]
+    },
+    {
+        "name": "Dark Pink",
+        "code": "RV34",
+        "bg": "#f9afae",
+        "types": [
+            "sketch",
+            "classic",
+            "ciao"
+        ]
+    },
+    {
+        "name": "Salmon Pink",
+        "code": "RV42",
+        "bg": "#f8bbb6",
+        "types": [
+            "sketch",
+            "ciao"
+        ]
+    },
+    {
+        "name": "Various Cotton Candy",
+        "code": "RV52",
+        "bg": "#f9cade",
+        "types": [
+            "sketch"
+        ]
+    },
+    {
+        "name": "Hollyhock",
+        "code": "RV55",
+        "bg": "#e9a5ca",
+        "types": [
+            "sketch"
+        ]
+    },
+    {
+        "name": "Begonia",
+        "code": "RV63",
+        "bg": "#d09dae",
+        "types": [
+            "sketch"
+        ]
+    },
+    {
+        "name": "Raspberry",
+        "code": "RV66",
+        "bg": "#b86a84",
+        "types": [
+            "sketch"
+        ]
+    },
+    {
+        "name": "Peony",
+        "code": "RV69",
+        "bg": "#8b576e",
+        "types": [
+            "sketch",
+            "ciao"
+        ]
+    },
+    {
+        "name": "Garyish Cherry",
+        "code": "RV91",
+        "bg": "#e6d4e2",
+        "types": [
+            "sketch"
+        ]
+    },
+    {
+        "name": "Smokey Purple",
+        "code": "RV93",
+        "bg": "#e7b6cc",
+        "types": [
+            "sketch"
+        ]
+    },
+    {
+        "name": "Baby Blossoms",
+        "code": "RV95",
+        "bg": "#b684a1",
+        "types": [
+            "sketch",
+            "ciao"
+        ]
+    },
+    {
+        "name": "Argyle Purple",
+        "code": "RV99",
+        "bg": "#5a4858",
+        "types": [
+            "sketch"
+        ]
+    },
+    {
+        "name": "Toner Gray",
+        "code": "T0",
+        "bg": "#eceeed",
+        "types": [
+            "sketch",
+            "classic"
+        ]
+    },
+    {
+        "name": "Toner Gray",
+        "code": "T10",
+        "bg": "#322e2d",
+        "types": [
+            "sketch",
+            "classic"
+        ]
+    },
+    {
+        "name": "Toner Gray",
+        "code": "T1",
+        "bg": "#eaeae8",
+        "types": [
+            "sketch",
+            "classic"
+        ]
+    },
+    {
+        "name": "Toner Gray",
+        "code": "T2",
+        "bg": "#e0e0de",
+        "types": [
+            "sketch",
+            "classic"
+        ]
+    },
+    {
+        "name": "Toner Gray",
+        "code": "T3",
+        "bg": "#d1d2cc",
+        "types": [
+            "sketch",
+            "classic"
+        ]
+    },
+    {
+        "name": "Toner Gray",
+        "code": "T4",
+        "bg": "#bcbbb9",
+        "types": [
+            "sketch",
+            "classic"
+        ]
+    },
+    {
+        "name": "Toner Gray",
+        "code": "T5",
+        "bg": "#a8a7a3",
+        "types": [
+            "sketch",
+            "classic"
+        ]
+    },
+    {
+        "name": "Toner Gray",
+        "code": "T6",
+        "bg": "#949590",
+        "types": [
+            "sketch",
+            "classic"
+        ]
+    },
+    {
+        "name": "Toner Gray",
+        "code": "T7",
+        "bg": "#777674",
+        "types": [
+            "sketch",
+            "classic"
+        ]
+    },
+    {
+        "name": "Toner Gray",
+        "code": "T8",
+        "bg": "#63645f",
+        "types": [
+            "sketch",
+            "classic"
+        ]
+    },
+    {
+        "name": "Toner Gray",
+        "code": "T9",
+        "bg": "#4c4b49",
+        "types": [
+            "sketch",
+            "classic"
+        ]
+    },
+    {
+        "name": "Rose Quartz",
+        "code": "V0000",
+        "bg": "#f0edf6",
+        "types": [
+            "sketch"
+        ]
+    },
+    {
+        "name": "Pale Heath",
+        "code": "V000",
+        "bg": "#e9e5f3",
+        "types": [
+            "sketch",
+            "ciao"
+        ]
+    },
+    {
+        "name": "Heath",
+        "code": "V01",
+        "bg": "#e4c1d9",
+        "types": [
+            "sketch",
+            "ciao"
+        ]
+    },
+    {
+        "name": "Lilac",
+        "code": "V04",
+        "bg": "#e6aace",
+        "types": [
+            "sketch",
+            "classic",
+            "ciao"
+        ]
+    },
+    {
+        "name": "Marigold",
+        "code": "V05",
+        "bg": "#e2a6ca",
+        "types": [
+            "sketch",
+            "ciao"
+        ]
+    },
+    {
+        "name": "Lavender",
+        "code": "V06",
+        "bg": "#ce95c2",
+        "types": [
+            "sketch",
+            "classic",
+            "ciao"
+        ]
+    },
+    {
+        "name": "Violet",
+        "code": "V09",
+        "bg": "#8754a1",
+        "types": [
+            "sketch",
+            "classic",
+            "ciao"
+        ]
+    },
+    {
+        "name": "Pale Lilac",
+        "code": "V12",
+        "bg": "#eed7e9",
+        "types": [
+            "sketch",
+            "classic",
+            "ciao"
+        ]
+    },
+    {
+        "name": "Mallow",
+        "code": "V15",
+        "bg": "#d3a6cd",
+        "types": [
+            "sketch",
+            "classic",
+            "ciao"
+        ]
+    },
+    {
+        "name": "Amethyst",
+        "code": "V17",
+        "bg": "#a092c7",
+        "types": [
+            "sketch",
+            "classic",
+            "ciao",
+            "wide"
+        ]
+    },
+    {
+        "name": "Wisteria",
+        "code": "V20",
+        "bg": "#e2e0ed",
+        "types": [
+            "sketch"
+        ]
+    },
+    {
+        "name": "Sketch Ash Lavender",
+        "code": "V22",
+        "bg": "#b2b1d0",
+        "types": [
+            "sketch"
+        ]
+    },
+    {
+        "name": "Pale Blackberry",
+        "code": "V25",
+        "bg": "#857fad",
+        "types": [
+            "sketch"
+        ]
+    },
+    {
+        "name": "Sketch Eggplant",
+        "code": "V28",
+        "bg": "#6b668e",
+        "types": [
+            "sketch"
+        ]
+    },
+    {
+        "name": "Pale Grape",
+        "code": "V91",
+        "bg": "#e8c4d0",
+        "types": [
+            "sketch",
+            "ciao"
+        ]
+    },
+    {
+        "name": "Early Grape",
+        "code": "V93",
+        "bg": "#e5c1db",
+        "types": [
+            "sketch"
+        ]
+    },
+    {
+        "name": "Light Grape",
+        "code": "V95",
+        "bg": "#b77ca8",
+        "types": [
+            "sketch",
+            "ciao"
+        ]
+    },
+    {
+        "name": "Aubergine",
+        "code": "V99",
+        "bg": "#524358",
+        "types": [
+            "sketch"
+        ]
+    },
+    {
+        "name": "Warm Gray",
+        "code": "W00",
+        "bg": "#f3f3eb",
+        "types": [
+            "sketch"
+        ]
+    },
+    {
+        "name": "Warm Gray",
+        "code": "W0",
+        "bg": "#ecece4",
+        "types": [
+            "sketch",
+            "classic",
+            "ciao"
+        ]
+    },
+    {
+        "name": "Warm Gray",
+        "code": "W10",
+        "bg": "#302f2b",
+        "types": [
+            "sketch",
+            "classic"
+        ]
+    },
+    {
+        "name": "Warm Gray No. 1",
+        "code": "W1",
+        "bg": "#e7e7df",
+        "types": [
+            "sketch",
+            "classic",
+            "ciao",
+            "wide"
+        ]
+    },
+    {
+        "name": "Warm Gray",
+        "code": "W2",
+        "bg": "#ddddd5",
+        "types": [
+            "sketch",
+            "classic",
+            "ciao"
+        ]
+    },
+    {
+        "name": "Warm Gray No. 3",
+        "code": "W3",
+        "bg": "#d2d2ca",
+        "types": [
+            "sketch",
+            "classic",
+            "ciao",
+            "wide"
+        ]
+    },
+    {
+        "name": "Warm Gray",
+        "code": "W4",
+        "bg": "#bcbdb7",
+        "types": [
+            "sketch",
+            "classic"
+        ]
+    },
+    {
+        "name": "Warm Gray No. 5",
+        "code": "W5",
+        "bg": "#a8a9a4",
+        "types": [
+            "sketch",
+            "classic",
+            "ciao",
+            "wide"
+        ]
+    },
+    {
+        "name": "Warm Gray",
+        "code": "W6",
+        "bg": "#94958f",
+        "types": [
+            "sketch",
+            "classic"
+        ]
+    },
+    {
+        "name": "Warm Gray No. 7",
+        "code": "W7",
+        "bg": "#777873",
+        "types": [
+            "sketch",
+            "classic",
+            "ciao",
+            "wide"
+        ]
+    },
+    {
+        "name": "Warm Gray",
+        "code": "W8",
+        "bg": "#63645f",
+        "types": [
+            "sketch",
+            "classic"
+        ]
+    },
+    {
+        "name": "Warm Gray",
+        "code": "W9",
+        "bg": "#4c4d48",
+        "types": [
+            "sketch",
+            "classic",
+            "wide"
+        ]
+    },
+    {
+        "name": "Yellow Fluorite",
+        "code": "Y0000",
+        "bg": "#fefef4",
+        "types": [
+            "sketch"
+        ]
+    },
+    {
+        "name": "Pale Lemon",
+        "code": "Y000",
+        "bg": "#fffce9",
+        "types": [
+            "sketch",
+            "ciao"
+        ]
+    },
+    {
+        "name": "Barium Yellow",
+        "code": "Y00",
+        "bg": "#fefddf",
+        "types": [
+            "sketch",
+            "classic",
+            "ciao"
+        ]
+    },
+    {
+        "name": "Canary Yellow",
+        "code": "Y02",
+        "bg": "#f6f396",
+        "types": [
+            "sketch",
+            "classic",
+            "ciao"
+        ]
+    },
+    {
+        "name": "Acacia",
+        "code": "Y04",
+        "bg": "#ede556",
+        "types": [
+            "sketch"
+        ]
+    },
+    {
+        "name": "Yellow",
+        "code": "Y06",
+        "bg": "#fef56c",
+        "types": [
+            "sketch",
+            "classic",
+            "ciao"
+        ]
+    },
+    {
+        "name": "Acid Yellow",
+        "code": "Y08",
+        "bg": "#fef200",
+        "types": [
+            "sketch",
+            "classic",
+            "ciao",
+            "wide"
+        ]
+    },
+    {
+        "name": "Pale Yellow",
+        "code": "Y11",
+        "bg": "#fffbcc",
+        "types": [
+            "sketch",
+            "classic",
+            "ciao"
+        ]
+    },
+    {
+        "name": "Lemon Yellow",
+        "code": "Y13",
+        "bg": "#fbf7ae",
+        "types": [
+            "sketch",
+            "classic"
+        ]
+    },
+    {
+        "name": "Cadmium Yellow",
+        "code": "Y15",
+        "bg": "#fee96c",
+        "types": [
+            "sketch",
+            "classic",
+            "ciao",
+            "wide"
+        ]
+    },
+    {
+        "name": "Golden Yellow",
+        "code": "Y17",
+        "bg": "#ffe455",
+        "types": [
+            "sketch",
+            "classic",
+            "ciao",
+            "wide"
+        ]
+    },
+    {
+        "name": "Lightning Yellow",
+        "code": "Y18",
+        "bg": "#feed55",
+        "types": [
+            "sketch"
+        ]
+    },
+    {
+        "name": "Napoli Yellow",
+        "code": "Y19",
+        "bg": "#ffe93e",
+        "types": [
+            "sketch",
+            "classic"
+        ]
+    },
+    {
+        "name": "Buttercup Yellow",
+        "code": "Y21",
+        "bg": "#ffeec2",
+        "types": [
+            "sketch",
+            "classic",
+            "ciao"
+        ]
+    },
+    {
+        "name": "Yellowish Beige",
+        "code": "Y23",
+        "bg": "#fbe3b3",
+        "types": [
+            "sketch",
+            "classic"
+        ]
+    },
+    {
+        "name": "Mustard",
+        "code": "Y26",
+        "bg": "#f0dd67",
+        "types": [
+            "sketch",
+            "classic",
+            "wide"
+        ]
+    },
+    {
+        "name": "Lionet Gold",
+        "code": "Y28",
+        "bg": "#caa869",
+        "types": [
+            "sketch",
+            "ciao"
+        ]
+    },
+    {
+        "name": "Cashmere",
+        "code": "Y32",
+        "bg": "#f9dec0",
+        "types": [
+            "sketch"
+        ]
+    },
+    {
+        "name": "Maize",
+        "code": "Y35",
+        "bg": "#ffd879",
+        "types": [
+            "sketch",
+            "ciao"
+        ]
+    },
+    {
+        "name": "Honey",
+        "code": "Y38",
+        "bg": "#ffd374",
+        "types": [
+            "sketch",
+            "classic",
+            "ciao"
+        ]
+    },
+    {
+        "name": "Lily White",
+        "code": "YG0000",
+        "bg": "#f2f7e0",
+        "types": [
+            "sketch"
+        ]
+    },
+    {
+        "name": "Mimosa Yellow",
+        "code": "YG00",
+        "bg": "#e6e69e",
+        "types": [
+            "sketch",
+            "ciao"
+        ]
+    },
+    {
+        "name": "Green Bice",
+        "code": "YG01",
+        "bg": "#e2ebb2",
+        "types": [
+            "sketch",
+            "classic"
+        ]
+    },
+    {
+        "name": "Yellow Green",
+        "code": "YG03",
+        "bg": "#deeaaa",
+        "types": [
+            "sketch",
+            "classic",
+            "ciao",
+            "wide"
+        ]
+    },
+    {
+        "name": "Salad",
+        "code": "YG05",
+        "bg": "#d6e592",
+        "types": [
+            "sketch",
+            "classic"
+        ]
+    },
+    {
+        "name": "Yellowish Green",
+        "code": "YG06",
+        "bg": "#c4df92",
+        "types": [
+            "sketch",
+            "ciao"
+        ]
+    },
+    {
+        "name": "Acid Green",
+        "code": "YG07",
+        "bg": "#a5cf4f",
+        "types": [
+            "sketch",
+            "classic"
+        ]
+    },
+    {
+        "name": "Lettuce Green",
+        "code": "YG09",
+        "bg": "#82c566",
+        "types": [
+            "sketch",
+            "classic",
+            "ciao"
+        ]
+    },
+    {
+        "name": "Mignonette",
+        "code": "YG11",
+        "bg": "#e5f0d0",
+        "types": [
+            "sketch",
+            "classic",
+            "ciao"
+        ]
+    },
+    {
+        "name": "Chartreuse",
+        "code": "YG13",
+        "bg": "#d4e59f",
+        "types": [
+            "sketch",
+            "classic"
+        ]
+    },
+    {
+        "name": "Grass Green",
+        "code": "YG17",
+        "bg": "#72c156",
+        "types": [
+            "sketch",
+            "classic",
+            "ciao"
+        ]
+    },
+    {
+        "name": "Anise",
+        "code": "YG21",
+        "bg": "#f7f6be",
+        "types": [
+            "sketch",
+            "classic"
+        ]
+    },
+    {
+        "name": "New Leaf",
+        "code": "YG23",
+        "bg": "#e6eb8f",
+        "types": [
+            "sketch",
+            "classic",
+            "ciao"
+        ]
+    },
+    {
+        "name": "Celadon Green",
+        "code": "YG25",
+        "bg": "#d0e17b",
+        "types": [
+            "sketch",
+            "classic"
+        ]
+    },
+    {
+        "name": "Pale Cobalt Green",
+        "code": "YG41",
+        "bg": "#d5ebd4",
+        "types": [
+            "sketch",
+            "classic",
+            "ciao"
+        ]
+    },
+    {
+        "name": "Cobalt Green",
+        "code": "YG45",
+        "bg": "#b4dcb7",
+        "types": [
+            "sketch",
+            "classic"
+        ]
+    },
+    {
+        "name": "Pale Moss",
+        "code": "YG61",
+        "bg": "#d6e9d6",
+        "types": [
+            "sketch"
+        ]
+    },
+    {
+        "name": "Pea Green",
+        "code": "YG63",
+        "bg": "#a0caa2",
+        "types": [
+            "sketch",
+            "classic",
+            "ciao"
+        ]
+    },
+    {
+        "name": "Moss",
+        "code": "YG67",
+        "bg": "#81bf8c",
+        "types": [
+            "sketch",
+            "classic",
+            "ciao"
+        ]
+    },
+    {
+        "name": "Putty",
+        "code": "YG91",
+        "bg": "#dad7ae",
+        "types": [
+            "sketch",
+            "classic",
+            "ciao"
+        ]
+    },
+    {
+        "name": "Grayish Yellow",
+        "code": "YG93",
+        "bg": "#d2d29c",
+        "types": [
+            "sketch"
+        ]
+    },
+    {
+        "name": "Pale Olive",
+        "code": "YG95",
+        "bg": "#cbc65e",
+        "types": [
+            "sketch",
+            "classic",
+            "ciao"
+        ]
+    },
+    {
+        "name": "Spanish Olive",
+        "code": "YG97",
+        "bg": "#958f03",
+        "types": [
+            "sketch",
+            "classic"
+        ]
+    },
+    {
+        "name": "Marine Green",
+        "code": "YG99",
+        "bg": "#4e6a15",
+        "types": [
+            "sketch",
+            "classic"
+        ]
+    },
+    {
+        "name": "Pale Chiffon",
+        "code": "YR0000",
+        "bg": "#fff3e5",
+        "types": [
+            "sketch"
+        ]
+    },
+    {
+        "name": "Silk",
+        "code": "YR000",
+        "bg": "#feecd8",
+        "types": [
+            "sketch",
+            "ciao"
+        ]
+    },
+    {
+        "name": "Powder Pink",
+        "code": "YR00",
+        "bg": "#fed6bd",
+        "types": [
+            "sketch",
+            "classic",
+            "ciao"
+        ]
+    },
+    {
+        "name": "Peach Puff",
+        "code": "YR01",
+        "bg": "#fedac2",
+        "types": [
+            "sketch"
+        ]
+    },
+    {
+        "name": "Light Orange",
+        "code": "YR02",
+        "bg": "#fcdcc5",
+        "types": [
+            "sketch",
+            "classic",
+            "ciao"
+        ]
+    },
+    {
+        "name": "Chrome Orange",
+        "code": "YR04",
+        "bg": "#fec369",
+        "types": [
+            "sketch",
+            "classic",
+            "ciao",
+            "wide"
+        ]
+    },
+    {
+        "name": "Cadmium Orange",
+        "code": "YR07",
+        "bg": "#f26f39",
+        "types": [
+            "sketch",
+            "classic",
+            "ciao"
+        ]
+    },
+    {
+        "name": "Chinese Orange",
+        "code": "YR09",
+        "bg": "#f15524",
+        "types": [
+            "sketch",
+            "classic"
+        ]
+    },
+    {
+        "name": "Loquat",
+        "code": "YR12",
+        "bg": "#ffe2a6",
+        "types": [
+            "sketch"
+        ]
+    },
+    {
+        "name": "Caramel",
+        "code": "YR14",
+        "bg": "#fec84e",
+        "types": [
+            "sketch",
+            "classic"
+        ]
+    },
+    {
+        "name": "Pumpkin Yellow",
+        "code": "YR15",
+        "bg": "#fbb884",
+        "types": [
+            "sketch",
+            "ciao"
+        ]
+    },
+    {
+        "name": "Apricot",
+        "code": "YR16",
+        "bg": "#feb729",
+        "types": [
+            "sketch",
+            "classic",
+            "ciao"
+        ]
+    },
+    {
+        "name": "Sanguine",
+        "code": "YR18",
+        "bg": "#f26b3c",
+        "types": [
+            "sketch",
+            "classic"
+        ]
+    },
+    {
+        "name": "Yellowish Shade",
+        "code": "YR20",
+        "bg": "#ffe1bf",
+        "types": [
+            "sketch",
+            "ciao"
+        ]
+    },
+    {
+        "name": "Cream",
+        "code": "YR21",
+        "bg": "#f5ddb1",
+        "types": [
+            "sketch",
+            "classic"
+        ]
+    },
+    {
+        "name": "Yellow Ochre",
+        "code": "YR23",
+        "bg": "#eccf8b",
+        "types": [
+            "sketch",
+            "classic",
+            "ciao"
+        ]
+    },
+    {
+        "name": "Pale Sepia",
+        "code": "YR24",
+        "bg": "#f0cf64",
+        "types": [
+            "sketch",
+            "classic"
+        ]
+    },
+    {
+        "name": "Tuscan Orange",
+        "code": "YR27",
+        "bg": "#d56638",
+        "types": [
+            "sketch"
+        ]
+    },
+    {
+        "name": "Macadamia Nut",
+        "code": "YR30",
+        "bg": "#fef2da",
+        "types": [
+            "sketch"
+        ]
+    },
+    {
+        "name": "Light Reddish Yellow",
+        "code": "YR31",
+        "bg": "#ffdea8",
+        "types": [
+            "sketch",
+            "ciao"
+        ]
+    },
+    {
+        "name": "Yellowish Skin Pink",
+        "code": "YR61",
+        "bg": "#fddac4",
+        "types": [
+            "sketch",
+            "ciao"
+        ]
+    },
+    {
+        "name": "Atoll",
+        "code": "YR65",
+        "bg": "#faae60",
+        "types": [
+            "sketch"
+        ]
+    },
+    {
+        "name": "Orange",
+        "code": "YR68",
+        "bg": "#f37022",
+        "types": [
+            "sketch",
+            "ciao"
+        ]
+    },
+    {
+        "name": "Mellow Peach",
+        "code": "YR82",
+        "bg": "#fdc68d",
+        "types": [
+            "sketch"
+        ]
+    }
+]
